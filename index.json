@@ -31,22 +31,19 @@
       "path": "/conditionals",
       "files": [
         {
-          "path": "/if-else-if-else.js"
+          "path": "/1-if-else.js"
         },
         {
-          "path": "/if-else.js"
+          "path": "/2-sequential-conditionals.js"
         },
         {
-          "path": "/nested-if-else.js"
-        },
-        {
-          "path": "/sequential-if-else.js"
+          "path": "/3-if-else-if-else.js"
         }
       ]
     }
   ],
   "config": {
-    "title": "unit-testing:",
+    "title": "unit-tests:",
     "path": "/exercises",
     "loopGuard": {
       "active": false,
