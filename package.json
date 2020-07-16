@@ -1,0 +1,20 @@
+{
+  "name": "koans",
+  "version": "1.0.0",
+  "description": "js koans",
+  "main": "server.js",
+  "scripts": {
+    "register": "node scripts/register.js",
+    "start": "npm run register && node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackYourFutureBelgium/koans.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/HackYourFutureBelgium/koans/issues"
+  },
+  "homepage": "https://github.com/HackYourFutureBelgium/koans#readme"
+}
