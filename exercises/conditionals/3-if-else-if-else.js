@@ -2,6 +2,12 @@
 
 const expect = chai.expect;
 
+/**
+ * returns a description of how similar two values are
+ * @param {any} val1
+ * @param {any} val2
+ * @returns {string} the values' sameness
+ */
 const sameness = (val1, val2) => {
   let result = '';
   if (val1 === val2) {
