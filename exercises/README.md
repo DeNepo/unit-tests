@@ -10,9 +10,8 @@
   - [/5-all-together.js](./about-testing/5-all-together.js)
   - [/6-more-assertions.js](./about-testing/6-more-assertions.js)
 - [/conditionals](./conditionals)
-  - [/if-else-if-else.js](./conditionals/if-else-if-else.js)
-  - [/if-else.js](./conditionals/if-else.js)
-  - [/nested-if-else.js](./conditionals/nested-if-else.js)
-  - [/sequential-if-else.js](./conditionals/sequential-if-else.js)
+  - [/1-if-else.js](./conditionals/1-if-else.js)
+  - [/2-sequential-conditionals.js](./conditionals/2-sequential-conditionals.js)
+  - [/3-if-else-if-else.js](./conditionals/3-if-else-if-else.js)
 
 <!-- END TOC -->
