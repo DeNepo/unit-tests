@@ -5,7 +5,7 @@ export default {
   },
   debugger: function (code) {
     const stepThrough = eval;
-    const debuggered = "debugger; // injected by LiveStudy\n\n" + code;
+    const debuggered = "/* study tip: place breakpoints\n  at the beginning of your function\n  at the beginning of each it() \n*/\ndebugger;\n\n" + code;
     stepThrough(debuggered);
   },
 };
