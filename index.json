@@ -28,6 +28,14 @@
       ]
     },
     {
+      "path": "/arrays-of-objects",
+      "files": [
+        {
+          "path": "/passing-objects.js"
+        }
+      ]
+    },
+    {
       "path": "/conditionals",
       "files": [
         {
